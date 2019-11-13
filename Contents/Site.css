@@ -21,6 +21,10 @@ h1 {
     border-bottom: 0.5px solid #0087a7;
     padding-bottom: 15px;
 }
+#hello-tag{
+    border-top: 0.5px solid #0087a7;
+    border-bottom: none;
+}
 
 h4{ 
     color: #FCAE28;
